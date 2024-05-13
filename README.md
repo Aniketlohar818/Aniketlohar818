@@ -1,8 +1,10 @@
+![logo](https://github.com/Aniketlohar818/-Aniketlohar818/blob/main/Github%20Banner.png)
+
 # -Aniketlohar818
 <h1 align="center">Hi 👋, I'm Aniket </h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
+<p align="right"> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
 
 - 🔭 I’m currently working on **Society Management System (SMS)**
 
