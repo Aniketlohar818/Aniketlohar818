@@ -1,4 +1,4 @@
-![logo](https://github.com/Aniketlohar818/-Aniketlohar818/blob/main/Github%20Banner.png)
+#![logo](https://github.com/Aniketlohar818/-Aniketlohar818/blob/main/Github%20Banner.png)
 
 # Aniketlohar818
 <h1 align="center">Hi 👋, I'm Aniket </h1>
